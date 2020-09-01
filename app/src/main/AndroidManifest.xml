@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.exam_set1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Set_10_second"></activity>
+        <activity android:name=".Set_10_first" />
+        <activity android:name=".Set_9_second" />
+        <activity android:name=".Set_9_first" />
+        <activity android:name=".Set_8_second" />
+        <activity android:name=".Set_8_first" />
+        <activity android:name=".Set_7_second" />
+        <activity android:name=".Set_7_first" />
+        <activity android:name=".Set_6_second" />
+        <activity android:name=".Set_6_first" />
+        <activity android:name=".Set_5_second" />
+        <activity android:name=".Set_5_first" />
+        <activity android:name=".Set_4_first" />
+        <activity android:name=".Set_4_second" />
+        <activity android:name=".Set_3_first" />
+        <activity android:name=".Set_2_Second" />
+        <activity android:name=".Set_3_Second" />
+        <activity android:name=".Set_2_first" />
+        <activity android:name=".Home">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Set_1_Second" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

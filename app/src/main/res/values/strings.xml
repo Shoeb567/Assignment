@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Exam_set1</string>
+
+    <string-array name="color">
+        <item>Black</item>
+
+        <item>Yellow</item>
+        <item>Red</item>
+        <item>Blue</item>
+
+        <item>Grey</item>
+    </string-array>
+
+    <string-array name="arrCource">
+        <item>BCA</item>
+
+        <item>BBA</item>
+        <item>B.Com</item>
+        <item>MCA</item>
+
+        <item>Msc-IT</item>
+        <item>MBA</item>
+    </string-array>
+
+    <string-array name="arrSem">
+        <item>1</item>
+
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>Choose One</item>
+        <item>USD Dollar</item>
+        <item>Japanese Yen</item>
+        <item>Kuwait Dinar</item>
+    </string-array>
+</resources>
